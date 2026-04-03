@@ -29,10 +29,4 @@ This repo follows a classical reinforcement learning progression:
 8. CartPole with discretization
 9. DQN
 
-## Environment setup
 
-Create and activate the virtual environment:
-
-```bash
-cd ~/agent-test
-source agent-env/bin/activate
